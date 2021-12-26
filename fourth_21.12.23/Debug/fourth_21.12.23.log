@@ -1,0 +1,15 @@
+﻿빌드 시작: 2021-12-23 오후 4:35:35
+     1>2 노드의 "C:\Users\student\Desktop\NR WIN\fourth_21.12.23\fourth_21.12.23.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Rectangle_Menu_21.12.23.cpp
+         Rectangle_Menu_21.12.23.cpp
+     1>c:\users\student\desktop\nr win\fourth_21.12.23\rectangle_menu_21.12.23.cpp(58): warning C4101: 'hPen' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\NR WIN\fourth_21.12.23\Debug\fourth_21.12.23.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\student\Desktop\NR WIN\fourth_21.12.23\Debug\fourth_21.12.23.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\student\Desktop\NR WIN\fourth_21.12.23\Debug\fourth_21.12.23.lib" /MACHINE:X86 Debug\Menu.res
+         Debug\Rectangle_Menu_21.12.23.obj
+         fourth_21.12.23.vcxproj -> C:\Users\student\Desktop\NR WIN\fourth_21.12.23\Debug\fourth_21.12.23.exe
+     1>"C:\Users\student\Desktop\NR WIN\fourth_21.12.23\fourth_21.12.23.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.68
