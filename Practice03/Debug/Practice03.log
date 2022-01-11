@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\skfls\OneDrive\바탕 화면\Practice03\소스.cpp(79,8): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+C:\Users\skfls\OneDrive\바탕 화면\Practice03\소스.cpp(106,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\skfls\OneDrive\바탕 화면\Practice03\소스.cpp(105,8): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  Practice03.vcxproj -> C:\Users\skfls\OneDrive\바탕 화면\Practice03\Debug\Practice03.exe
